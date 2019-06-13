@@ -3683,6 +3683,11 @@ dotenv@^6.0.0:
   resolved "https://registry.npm.taobao.org/dotenv/download/dotenv-6.2.0.tgz#941c0410535d942c8becf28d3f357dbd9d476064"
   integrity sha1-lBwEEFNdlCyL7PKNPzV9vZ1HYGQ=
 
+dotenv@^8.0.0:
+  version "8.0.0"
+  resolved "https://registry.npm.taobao.org/dotenv/download/dotenv-8.0.0.tgz#ed310c165b4e8a97bb745b0a9d99c31bda566440"
+  integrity sha1-7TEMFltOipe7dFsKnZnDG9pWZEA=
+
 dotgitignore@2.1.0:
   version "2.1.0"
   resolved "https://registry.npm.taobao.org/dotgitignore/download/dotgitignore-2.1.0.tgz#a4b15a4e4ef3cf383598aaf1dfa4a04bcc089b7b"
@@ -3744,10 +3749,10 @@ ejs@^2.6.1:
   resolved "https://registry.npm.taobao.org/ejs/download/ejs-2.6.1.tgz#498ec0d495655abc6f23cd61868d926464071aa0"
   integrity sha1-SY7A1JVlWrxvI81hho2SZGQHGqA=
 
-el-data-table@^1.1.1:
-  version "1.4.0"
-  resolved "https://registry.npm.taobao.org/el-data-table/download/el-data-table-1.4.0.tgz#8a285434cd818f79f3060adb05921e3cc5e5611a"
-  integrity sha1-iihUNM2Bj3nzBgrbBZIePMXlYRo=
+el-data-table@^1.4.2:
+  version "1.4.2"
+  resolved "https://registry.npm.taobao.org/el-data-table/download/el-data-table-1.4.2.tgz#7762e655394baeeb2e5c272bd2db7b2dc11cf397"
+  integrity sha1-d2LmVTlLrusuXCcr0tt7LcEc85c=
   dependencies:
     lodash.get "^4.4.2"
     qs "^6.5.2"
@@ -3762,10 +3767,10 @@ elegant-spinner@^1.0.1:
   resolved "https://registry.npm.taobao.org/elegant-spinner/download/elegant-spinner-1.0.1.tgz#db043521c95d7e303fd8f345bedc3349cfb0729e"
   integrity sha1-2wQ1IcldfjA/2PNFvtwzSc+wcp4=
 
-element-ui@2.4.11:
-  version "2.4.11"
-  resolved "https://registry.npm.taobao.org/element-ui/download/element-ui-2.4.11.tgz#db6a2d37001b8fe5fff9f176fb58bb3908cfa9c9"
-  integrity sha1-22otNwAbj+X/+fF2+1i7OQjPqck=
+element-ui@^2.9.1:
+  version "2.9.1"
+  resolved "https://registry.npm.taobao.org/element-ui/download/element-ui-2.9.1.tgz#a05f2e76023d529ba0dfa2d03ae16e5134b20c4e"
+  integrity sha1-oF8udgI9Upug36LQOuFuUTSyDE4=
   dependencies:
     async-validator "~1.8.1"
     babel-helper-vue-jsx-merge-props "^2.0.0"
